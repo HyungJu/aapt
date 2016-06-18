@@ -217,6 +217,7 @@ void usage(void)
         "   --compress\n"
         "       Specifies if aapt should prefer compression or not.\n"
         "       Possible values are 0(Stored) and 1(Deflated).\n",
+        
         gDefaultIgnoreAssets);
 }
 
